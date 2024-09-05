@@ -18,3 +18,5 @@ int main()
  printf("it is not a palindrome");
  return 0;
 }
+
+//DIFFICULTY : 1.3
