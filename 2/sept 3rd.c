@@ -14,7 +14,7 @@ int main()
   }
  while(x>0)
   {r=x%10;
-  for(i=1;i==c;i++)
+  for(i=1;i<=c;i++)
   {
   s=s*r;}
   x=x/10;
