@@ -19,4 +19,4 @@ int main()
  return 0;
 }
 
-//DIFFICULTY : 1.3
+//DIFFICULTY : 1.3/100 //
