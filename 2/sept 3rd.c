@@ -25,3 +25,5 @@ int main()
  printf("it is not amstrong");
  return 0;
 }
+
+//DIFFICULTY : 25
