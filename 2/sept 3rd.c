@@ -1,5 +1,6 @@
-#include<stdio.h>
+//AMSTRONG
 
+#include<stdio.h>
 int main()
 {
  int x,c=0,n,p,i,r,s=0;
